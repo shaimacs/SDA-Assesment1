@@ -1,16 +1,17 @@
 ### SDA-Assesment1
 <br>
+
+## Project Idea :
+C# based Console Application system to store, retrieve and update teacher data.
+
 ## Technolgies Used: 
 C# Console Application. 
-
-<br>
 <br>
 
 ## User Stories:
 - As A Teacher I shoud be able to store, retrieve and update my data. 
 <br>
-<br>
 
 ## WireFrames
-<img src = "D:\NET\Phase 1\Assesment1\1.png" > 
-<img src = "D:\NET\Phase 1\Assesment1\2.png" > 
+<img src = "Img\1.png"> 
+<img src = "Img\2.png"> 
